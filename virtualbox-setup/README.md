@@ -35,3 +35,5 @@ A fully functional multi-OS virtual lab environment ready for Linux administrati
 - How virtualization works using VirtualBox
 - Differences between host and guest operating systems
 - Importance of isolated lab environments for safe testing
+
+###s So glad
